@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://u8views.com/github/o-bav"><img src="https://u8views.com/api/v1/github/profiles/12545607/views/day-week-month-total-count.svg"></a>
 <!--
 **o-bav/o-bav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
