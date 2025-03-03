@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://u8views.com/github/o-bav"><img src="https://u8views.com/api/v1/github/profiles/12545607/views/day-week-month-total-count.svg"></a>
+
 <!--
 **o-bav/o-bav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -155,7 +155,7 @@ Passionate Software Developer | Web Design Enthusiast
 <br>
 
 <div align="center">
-<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/o-bav"><img src="https://u8views.com/api/v1/github/profiles/12545607/views/day-week-month-total-count.svg"></a>
 </div>
 
 <br>
